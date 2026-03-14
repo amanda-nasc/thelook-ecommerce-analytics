@@ -21,23 +21,23 @@ A partir dessa estrutura, foram desenvolvidas análises de negócio como **segme
 - Power BI  
 
 ---
-
-# 🏗️ Arquitetura de Dados
+## 🏗️ Arquitetura de Dados
 
 O projeto segue uma estrutura de camadas analíticas comum em Data Warehouses modernos.
 
 ```mermaid
 flowchart LR
 
-A[Raw Layer<br>Dados Brutos<br>BigQuery Public Dataset]
---> B[Silver Layer<br>Limpeza e Padronização<br>Tratamento de dados]
+A[Raw Layer<br>Dados Brutos<br>BigQuery Dataset]
+--> B[Silver Layer<br>Limpeza e Padronização]
 
 B --> C[Gold Layer<br>Métricas e Modelagem Analítica]
 
 C --> D[Análise de Negócio<br>RFM, Churn, Ticket Médio]
 
 D --> E[Dashboard<br>Power BI]
-******************
+```
+
 ---
 # 🔎 Metodologia de Análise
 
