@@ -96,7 +96,8 @@ Esses resultados indicam oportunidades relacionadas principalmente a **retençã
 
 ---
 
-# 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
+```text
 
 thelook-ecommerce-analytics
 │
