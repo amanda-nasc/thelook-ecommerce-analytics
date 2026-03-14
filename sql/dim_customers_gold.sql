@@ -1,3 +1,5 @@
+--CONSULTA SQL PARA CRIAÇÃO DA TABELA GOLD
+
 CREATE OR REPLACE TABLE `crm_analytics.dim_customers_gold` AS
 
 WITH users_clean AS (
