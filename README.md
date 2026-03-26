@@ -113,3 +113,8 @@ thelook-ecommerce-analytics
 │   └── relatorio_diagnostico.pdf
 │
 └── README.md
+
+## 🎓 Origem dos Dados
+
+Os dados utilizados neste projeto são provenientes de um dataset público "TheLook E-commerce Dataset", disponibilizado no Google BigQuery para fins educacionais.
+
