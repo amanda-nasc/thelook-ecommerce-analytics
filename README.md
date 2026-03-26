@@ -95,6 +95,11 @@ O relatório apresenta os principais insights encontrados durante a análise.
 Esses resultados indicam oportunidades relacionadas principalmente a **retenção de clientes e aumento da recorrência de compras**.
 
 ---
+## 🎓 Origem dos Dados
+
+Os dados utilizados neste projeto são provenientes de um dataset público "TheLook E-commerce Dataset", disponibilizado no Google BigQuery para fins educacionais.
+
+---
 
 ## 📂 Estrutura do Repositório
 ```text
@@ -114,7 +119,5 @@ thelook-ecommerce-analytics
 │
 └── README.md
 
-## 🎓 Origem dos Dados
 
-Os dados utilizados neste projeto são provenientes de um dataset público "TheLook E-commerce Dataset", disponibilizado no Google BigQuery para fins educacionais.
 
